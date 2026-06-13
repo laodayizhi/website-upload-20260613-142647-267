@@ -1,0 +1,20 @@
+{
+  "site_name": "最新剧集网",
+  "movie_count": 2000,
+  "category_count": 10,
+  "category_distribution": {
+    "guochan-juji": 200,
+    "hot-drama": 200,
+    "hd-movies": 200,
+    "action-suspense": 200,
+    "romance-family": 200,
+    "comedy-life": 200,
+    "fantasy-animation": 200,
+    "asian-cinema": 200,
+    "global-cinema": 200,
+    "documentary-variety": 200
+  },
+  "m3u8_source_count": 20,
+  "detail_pages": 2000,
+  "html_pages": 2014
+}
